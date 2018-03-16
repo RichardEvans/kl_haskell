@@ -1,4 +1,4 @@
-Implementations of KL1, KL2, and KL3 in Haskell.
+## Implementations of KL1, KL2, and KL3 in Haskell
 
 To test KL1:
 * ghci
